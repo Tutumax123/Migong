@@ -1,7 +1,13 @@
-#include "Migong.h"
+#include <iostream>
 
-int main() {
-    if (!mgpath(1, 1, M, N))//起点为（1，1）终点为（M，N）
-        printf("该迷宫无解");
+using namespace std;
+
+int main()
+{
+    int* p=NULL;
+
+    cout<<p<<endl;
+
+
     return 0;
 }
